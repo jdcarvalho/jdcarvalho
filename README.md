@@ -1,6 +1,6 @@
 # Hi there, I'm João de Carvalho! 👋
 
-I'm a web software developer with ten years of experience. During this time, I've developed expertise in various domains including:
+I'm a web software developer with ten years of experience. During this time, I've developed expertise in various domains, including:
 
 - SaaS business;
 - Software for education;
@@ -16,7 +16,7 @@ I also have eight years of experience in business retail software, accounting, a
 - 👯 I’m open to collaborating on open-source projects or interesting software ventures.
 - 💬 Ask me about SaaS development, web technologies, or anything related to software engineering.
 - 📫 How to reach me: [Visit my website](https://joaodecarvalho.com).
-- ⚡ Fun fact: I love to make brazilian barbecue almost every weekend.
+- ⚡ Fun fact: I love to make Brazilian barbecue almost every weekend.
 
 ## 🔧 Technologies & Tools
 
@@ -58,7 +58,7 @@ I also have eight years of experience in business retail software, accounting, a
 
 ## 📈 GitHub Stats
 
-I am currently moving all my projects to github, so more activity will be shown here soon.
+I am currently moving all my projects to GitHub, so more activity will be shown here soon.
 
 [![João de Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdcarvalho&show_icons=true&theme=radical)](https://github.com/jdcarvalho)
 
