@@ -37,6 +37,7 @@ I also have eight years of experience in business retail software, accounting, a
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
 
 ### Frontend Development
 
@@ -47,7 +48,7 @@ I also have eight years of experience in business retail software, accounting, a
 ![Alpine.js](https://img.shields.io/badge/-Alpine.js-8B0000?style=flat-square&logo=alpine.js&logoColor=white)
 ![HTMX](https://img.shields.io/badge/-HTMX-FF5722?style=flat-square&logo=htmx&logoColor=white)
 
-### Backend Development
+### Backend Web Development
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Struts](https://img.shields.io/badge/-Struts-8B0000?style=flat-square&logo=apache&logoColor=white)
