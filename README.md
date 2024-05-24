@@ -11,9 +11,9 @@ I also have eight years of experience in business retail software, accounting, a
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on enhancing my skills in frontend technologies and learning more about AI.
-- 🌱 I’m passionate about creating efficient and user-friendly software solutions.
-- 👯 I’m open to collaborating on open-source projects or interesting software ventures.
+- 🔭 I'm enhancing my skills in frontend technologies and learning more about AI.
+- 🌱 I'm passionate about creating efficient and user-friendly software solutions.
+- 👯 I'm open to collaborating on open-source projects or interesting software ventures.
 - 💬 Ask me about SaaS development, web technologies, or anything related to software engineering.
 - 📫 How to reach me: [Visit my website](https://joaodecarvalho.com).
 - ⚡ Fun fact: I love to make Brazilian barbecue almost every weekend.
