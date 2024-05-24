@@ -70,7 +70,7 @@ I also have eight years of experience in business retail software, accounting, a
 
 ## 📈 GitHub Stats
 
-I am currently moving all my projects to GitHub, so more activity will be shown here soon.
+I am transferring all my projects to GitHub so that more source code activity will be visible soon.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdcarvalho&layout=compact&theme=radical)](https://github.com/jdcarvalho)
 
