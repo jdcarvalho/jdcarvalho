@@ -72,9 +72,7 @@ I also have eight years of experience in business retail software, accounting, a
 
 I am transferring all my projects to GitHub so that more source code activity will be visible soon.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdcarvalho&layout=compact&theme=radical)](https://github.com/jdcarvalho)
-
-[![João de Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdcarvalho&show_icons=true&theme=radical)](https://github.com/jdcarvalho)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdcarvalho&theme=radical)](https://github.com/jdcarvalho)
 
 
 ## 🤝 Connect with Me
