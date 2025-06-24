@@ -4,8 +4,8 @@ I'm a web software developer with ten years of experience. During this time, I'v
 
 - SaaS business;
 - Software for education;
-- Software bottlenecks solving;
-- People management;
+- Resolve software bottlenecks;
+- Team leading;
 
 I also have eight years of experience in business retail software, accounting, and business intelligence software.
 
@@ -68,7 +68,6 @@ I also have eight years of experience in business retail software, accounting, a
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📈 GitHub Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdcarvalho&theme=radical)](https://github.com/jdcarvalho)
 
 ## 🤝 Connect with Me
