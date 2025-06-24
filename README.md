@@ -1,4 +1,7 @@
 # Hi there, I'm João de Carvalho! 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdiascarvalho)
+[![Follow Me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jdiascarvalho/)
+[![Contact Me on Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jdiascarvalho)
 
 I'm a web software developer with ten years of experience. During this time, I've developed expertise in various domains, including:
 
@@ -49,7 +52,7 @@ I also have eight years of experience in business retail software, accounting, a
 
 ### Backend Web Development
 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 ![Struts](https://img.shields.io/badge/-Struts-8B0000?style=flat-square&logo=apache&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 
@@ -69,9 +72,3 @@ I also have eight years of experience in business retail software, accounting, a
 
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdcarvalho&theme=radical)](https://github.com/jdcarvalho)
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdiascarvalho)
-[![Follow Me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jdiascarvalho/)
-[![Contact Me on Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jdiascarvalho)
