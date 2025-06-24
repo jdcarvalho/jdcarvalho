@@ -15,7 +15,6 @@ I also have eight years of experience in business retail software, accounting, a
 - 🌱 I'm passionate about creating efficient and user-friendly software solutions.
 - 👯 I'm open to collaborating on open-source projects or interesting software ventures.
 - 💬 Ask me about SaaS development, web technologies, or anything related to software engineering.
-- 📫 How to reach me: [Visit my website](https://joaodecarvalho.com).
 - ⚡ Fun fact: I love to make Brazilian barbecue almost every weekend.
 
 ## 🔧 Technologies & Tools
@@ -74,7 +73,6 @@ I also have eight years of experience in business retail software, accounting, a
 
 ## 🤝 Connect with Me
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square)](https://joaodecarvalho.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdiascarvalho)
 [![Follow Me on Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jdiascarvalho/)
 [![Contact Me on Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jdiascarvalho)
